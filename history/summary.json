@@ -5,16 +5,16 @@
     "icon": "https://www.hnvi.nl/favicon.ico",
     "slug": "hnvi",
     "status": "up",
-    "uptime": "82.14%",
+    "uptime": "82.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "37.83%",
-    "time": 425,
-    "timeDay": 1031,
-    "timeWeek": 899,
-    "timeMonth": 875,
-    "timeYear": 432,
+    "uptimeYear": "38.11%",
+    "time": 426,
+    "timeDay": 1205,
+    "timeWeek": 985,
+    "timeMonth": 881,
+    "timeYear": 435,
     "dailyMinutesDown": {
       "2026-05-06": 50,
       "2026-05-05": 1440,
@@ -241,8 +241,7 @@
       "2025-09-26": 1440,
       "2025-09-25": 1440,
       "2025-09-24": 1440,
-      "2025-09-23": 1440,
-      "2025-09-22": 1440
+      "2025-09-23": 1440
     }
   }
 ]
